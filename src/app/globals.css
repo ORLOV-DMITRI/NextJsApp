@@ -1,0 +1,28 @@
+:root {
+  --black: #3b434e;
+  --white: white;
+  --gray-light: #ebebeb;
+  --primary: #7653fc;
+  --primary-hover: #200b73;
+  --red: #fc836d;
+  --green: #1dc37e;
+  --green-light: #1dc37e;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  overflow-x: hidden;
+  color: var(--black);
+  background: #f5f6f8;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}

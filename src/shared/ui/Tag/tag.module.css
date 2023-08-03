@@ -1,0 +1,53 @@
+.tag {
+  display: inline-block;
+  border-radius: 20px;
+  border: 1px solid #ebebeb;
+}
+.sale {
+  color: #1dc37e;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 12px;
+  background: #c8f8e4;
+  padding: 5px 9px;
+}
+.sale span {
+  margin-left: 2px;
+}
+.small {
+  padding: 5px 12px;
+}
+.counter {
+  background: #b3c0d9;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 14px;
+  padding: 5px 10px;
+}
+
+.vacancies {
+  color: #fff;
+
+  font-size: 14px;
+  font-weight: 500;
+  background: #de0000;
+  padding: 3px 8px;
+}
+.primary {
+  background: #ffff;
+  color: #3b434e;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 12px;
+  padding: 5px 12px;
+  border: 1px solid #ebebeb;
+}
+.secondary {
+  color: #7653fc;
+  font-size: 12px;
+  font-weight: 500;
+  border: 1px solid #7653fc;
+  padding: 2px 6px;
+}
